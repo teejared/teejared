@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Currently working as an Operations Quality Engineer<br>📚 I'm learning AWS Cloud Solutions<br>🎯 Goals: Transition to Data Engineering<br>🎲 Fun fact: I am a trained classical pianist</p>
+<p align="left">✨ Currently working as an Operations Quality Engineer<br>📚 I'm learning Business Finance Fundamentals<br>🎯 Goals: Transition to Data Engineering<br>🎲 Fun fact: I am a trained classical pianist</p>
 
 ###
 
